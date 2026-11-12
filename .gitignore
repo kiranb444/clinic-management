@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+myvirtualenv/
+.env
+db.sqlite3
+
+# React
+node_modules/
+dist/
+
+# Environment variables
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
